@@ -1,6 +1,8 @@
 -------------Movie Recommendation System -------
 
-<img width="1080" alt="Screenshot 2023-05-07 233038" src="https://github.com/NareshVaishnav/Movie-Recommender-System/assets/104693264/ae712645-62ab-4008-89a0-35905a402fa5">
+
+<img width="1073" alt="Screenshot 2023-05-07 233038" src="https://github.com/NareshVaishnav/Movie-Recommender-System/assets/104693264/a72164f9-48e2-46f1-8b8e-0fa0c990b07b">
+
 
 
 Welcome to the Movie Recommendation System project! This project utilizes machine learning techniques and various libraries 
