@@ -1,5 +1,8 @@
 -------------Movie Recommendation System -------
 
+<img width="1080" alt="Screenshot 2023-05-07 233038" src="https://github.com/NareshVaishnav/Movie-Recommender-System/assets/104693264/ae712645-62ab-4008-89a0-35905a402fa5">
+
+
 Welcome to the Movie Recommendation System project! This project utilizes machine learning techniques and various libraries 
 to provide personalized movie recommendations based on user preferences and historical data. The system is designed to assist 
 users in discovering new movies tailored to their individual tastes.
